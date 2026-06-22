@@ -84,3 +84,18 @@ footer{
 .product-card{
     width:250px;
 }
+
+main{
+    width:80%;
+    margin:auto;
+    padding:20px;
+}
+
+h1,h2{
+    color:#0b6e8a;
+}
+
+img{
+    max-width:100%;
+    border-radius:8px;
+}
