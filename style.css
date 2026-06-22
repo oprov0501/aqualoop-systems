@@ -21,8 +21,6 @@ nav{
     background:#084c61;
     text-align:center;
     padding:18px;
-    position:sticky;
-    top:0;
 }
 
 nav a{
@@ -73,4 +71,16 @@ footer{
     color:white;
     text-align:center;
     padding:20px;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:30px;
+}
+
+.employee-card,
+.product-card{
+    width:250px;
 }
